@@ -1,0 +1,8 @@
+Programmable Multioutput DC Power Supply GUI
+
+
+Designed GUI and Developed Application for Monitoring, and Controlling of DC power supply through USB physical layer. 
+Modbus protocol used for communication of data between hardware and LabVIEW App. 
+Implemented a file system in the application. 
+
+NI-VISA tool, NI Modbus library, Microsoft SQL tools, File Manager system used.
