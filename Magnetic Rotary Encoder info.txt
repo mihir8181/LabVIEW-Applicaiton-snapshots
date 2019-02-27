@@ -1,0 +1,14 @@
+Magnetic Rotary Encoder GUI
+
+
+The magnetic Rotary Encoder is communicated with CPU and other devices over CAN protocol. 
+This applicaiton Controlling and monitoring the all CAN devices.
+
+Designed GUI and Developed Application for Communicating, Monitoring and Controlling CAN devices using CAN analyzers like: 
+1) IXXAT 
+2) CANalyst-2. 
+The application is Based on shared DLL. 
+Data can be sent from the application or get/receive from CAN device via analyzer. 
+CAN analyzer communicate to the application through DLL. 
+It is a Master /slave communication between CAN devices(Slave) and LabVIEW application(Master).
+Security level is added in the application with RC4 Encryption ( Crypto- Tools ).
