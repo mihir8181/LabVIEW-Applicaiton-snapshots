@@ -1,5 +1,0 @@
-#ITC E-Cigarette MemCOM (Memory Communication) Application.
-
-This application is to communicate with the memory of ITC E-cigarette.
-To store/read values of Max-min puff count, Max-min Puff time, serial number, etc. in/from the memory of E-cigarette.
-The application is based on Serial communication over USB protocol.
